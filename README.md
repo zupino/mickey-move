@@ -6,7 +6,7 @@ The script uses a camera to analyze a video stream and store an image screenshot
 
 This project was firstly created to collect evidence about mouse presence in our garage, became eventually useful to observe the behavior of some animals when they did not know to be observed. In the example below, you see a sequence of image of a bird stealing our strawberries
 
-![Now I know your face](https://www.marcozunino.it/mickey-move/mickey-move/fragole.gif)
+![Now I know your face](mickey-move-fragole.gif)
 
 ## Pre-requisite
 This script needs Python3 and related OpenCV libraries. In my specific case, OpenCV has to be cross compiled for ARM to make it run on Raspberry Pi.
